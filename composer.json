@@ -1,0 +1,8 @@
+{
+    "name": "bug-report/php74-rc2-streamwrapper-bug",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "mikey179/vfsstream": "^1.6"
+    }
+}
